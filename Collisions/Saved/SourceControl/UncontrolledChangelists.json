@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/egg.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/fish-bones.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1I/JTGDORB80MM7MMK7PI3620.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WE/BQNYNQGDEHDPTQX328GFAQ.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/Porta.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/Door.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/SW/XPLHK210SFO32EC3UTHR7K.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/J5/TO1I7E3LSKK4DGK61JUAUQ.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/colormap.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/Collisions/Content/colormap_ncl1_1.uasset"
+			]
+		}
+	]
+}
