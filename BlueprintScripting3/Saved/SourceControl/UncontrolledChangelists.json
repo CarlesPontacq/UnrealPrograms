@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/FirstPerson/Blueprints/Torch.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Q/1YMYWNSUAZN8UC0MAGSZLY.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DG/LXIY5Y3MC4P2QMHVAOZQRI.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/1F/ZK3BCQZF4NEIU0SQ593CW0.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/FirstPerson/Blueprints/DestroyerButton.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/FirstPerson/Blueprints/IHealthSystem.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScripting3/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+			]
+		}
+	]
+}

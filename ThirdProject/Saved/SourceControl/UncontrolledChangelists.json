@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/ThirdProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/ThirdProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TY/JUGFW4YQ41AJY3LZZ9KT3I.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/ThirdProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/QD/SQRVPHUN5U0R183ULZX6UF.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/ThirdProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/ThirdProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/ThirdProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
