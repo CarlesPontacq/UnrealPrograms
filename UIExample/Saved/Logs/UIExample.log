@@ -980,3 +980,840 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.05.09-15.22.29:603][  0]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.051604 secs
 [2025.05.09-15.22.29:659][  1]LogSourceControl: Uncontrolled asset enumeration finished in 0.214766 seconds (Found 6968 uncontrolled assets)
 [2025.05.09-15.22.29:766][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2025.05.09-15.24.19:195][460]LogDerivedDataCache: C:/Users/CarlesPontacqMontano/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.09-15.29.32:294][722]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.09-15.29.53:650][124]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.05.09-15.30.17:147][361]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.05.09-15.30.17:197][361]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.09-15.30.17:200][361]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.09-15.30.17:210][361]LogAutomationController: Ignoring very large delta of 4.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.09-15.30.17:217][362]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.09-15.30.19:855][642]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.05.09-15.30.19:864][642]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.09-15.30.30:550][710]LogMetaData: Removing '/Game/NewWidgetBlueprint.SKEL_NewWidgetBlueprint_C' ref from Metadata '/Game/FirstPerson/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.30:550][710]LogMetaData: Removing '/Game/NewWidgetBlueprint.NewWidgetBlueprint_C' ref from Metadata '/Game/FirstPerson/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.30:550][710]LogMetaData: Removing '/Game/NewWidgetBlueprint.NewWidgetBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.30:550][710]LogMetaData: Removing '/Game/NewWidgetBlueprint.NewWidgetBlueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.30:550][710]LogMetaData: Removing '/Game/NewWidgetBlueprint.NewWidgetBlueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.30:551][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.30.30:611][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NewWidgetBlueprint] ([2] browsable assets)...
+[2025.05.09-15.30.30:614][710]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/NewWidgetBlueprint.NewWidgetBlueprint]
+[2025.05.09-15.30.30:614][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewWidgetBlueprint]
+[2025.05.09-15.30.30:614][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWidgetBlueprint" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/NewWidgetBlueprint.uasset" SILENT=true
+[2025.05.09-15.30.30:618][710]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.004289 seconds
+[2025.05.09-15.30.30:621][710]LogSavePackage: Moving output files for package: /Game/NewWidgetBlueprint
+[2025.05.09-15.30.30:621][710]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/NewWidgetBlueprintE3A1BC384A790CB604E184BBB42A3ACC.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/NewWidgetBlueprint.uasset'
+[2025.05.09-15.30.30:633][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.417 ms
+[2025.05.09-15.30.30:641][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.09-15.30.30:646][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.05.09-15.30.30:649][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.05.09-15.30.30:661][710]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.09-15.30.30:663][710]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.30.30:663][710]LogContentValidation: Enabled validators:
+[2025.05.09-15.30.30:663][710]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.30.30:663][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.30.30:663][710]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.30.30:663][710]LogContentValidation: Display: Validating asset /Game/NewWidgetBlueprint.NewWidgetBlueprint
+[2025.05.09-15.30.30:663][710]AssetCheck: /Game/NewWidgetBlueprint Validating asset
+[2025.05.09-15.30.43:610][ 79]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MyUI
+[2025.05.09-15.30.43:633][ 79]LogMetaData: Removing '/Game/MyUI.MyUI_C' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.43:633][ 79]LogMetaData: Removing '/Game/MyUI.SKEL_MyUI_C' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.43:633][ 79]LogMetaData: Removing '/Game/MyUI.MyUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.43:633][ 79]LogMetaData: Removing '/Game/MyUI.MyUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.43:633][ 79]LogMetaData: Removing '/Game/MyUI.MyUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2025.05.09-15.30.43:633][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.30.43:676][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.30.43:676][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.30.43:676][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.30.43:677][ 79]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.30.43:677][ 79]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI572127D34413DA675FB4E394A58783D9.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.30.43:688][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.954 ms (total: 136.372 ms)
+[2025.05.09-15.30.43:694][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.09-15.30.43:698][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.09-15.30.43:702][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.05.09-15.30.43:761][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.30.43:763][ 79]LogContentValidation: Enabled validators:
+[2025.05.09-15.30.43:763][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.30.43:763][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.30.43:763][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.30.43:763][ 79]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.30.43:763][ 79]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.31.03:817][151]LogSlate: Took 0.006672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.09-15.31.06:177][399]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.4/FeaturePacks/StarterContent.upack)
+[2025.05.09-15.31.06:180][399]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.05.09-15.31.06:186][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.05.09-15.31.06:192][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.05.09-15.31.06:200][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.05.09-15.31.06:205][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.05.09-15.31.06:210][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.05.09-15.31.06:216][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.05.09-15.31.06:221][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.05.09-15.31.06:227][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.05.09-15.31.06:233][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.05.09-15.31.06:237][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.05.09-15.31.06:243][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.05.09-15.31.06:248][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.05.09-15.31.06:254][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.05.09-15.31.06:259][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.05.09-15.31.06:265][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.05.09-15.31.06:269][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.05.09-15.31.06:273][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.05.09-15.31.06:279][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Fire01.uasset"
+[2025.05.09-15.31.06:284][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.05.09-15.31.06:290][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.05.09-15.31.06:295][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.05.09-15.31.06:300][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Light01.uasset"
+[2025.05.09-15.31.06:305][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.05.09-15.31.06:309][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.05.09-15.31.06:315][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Light02.uasset"
+[2025.05.09-15.31.06:320][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.05.09-15.31.06:324][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.05.09-15.31.06:330][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.05.09-15.31.06:336][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.05.09-15.31.06:342][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.05.09-15.31.06:347][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.05.09-15.31.06:353][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.05.09-15.31.06:359][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.05.09-15.31.06:366][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.05.09-15.31.06:372][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.05.09-15.31.06:383][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.05.09-15.31.06:388][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.05.09-15.31.06:393][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.05.09-15.31.06:397][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.05.09-15.31.06:405][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.05.09-15.31.06:410][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.05.09-15.31.06:416][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Steam01.uasset"
+[2025.05.09-15.31.06:421][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.05.09-15.31.06:482][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.05.09-15.31.06:489][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.05.09-15.31.06:496][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.05.09-15.31.06:502][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.05.09-15.31.06:508][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.05.09-15.31.06:514][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.05.09-15.31.06:520][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Door.uasset"
+[2025.05.09-15.31.06:526][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.05.09-15.31.06:531][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.05.09-15.31.06:537][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.05.09-15.31.06:542][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.05.09-15.31.06:548][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.05.09-15.31.06:554][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.05.09-15.31.06:560][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.05.09-15.31.06:569][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.05.09-15.31.06:573][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.05.09-15.31.06:581][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.05.09-15.31.06:585][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.05.09-15.31.06:591][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Maps/StarterMap.umap"
+[2025.05.09-15.31.06:597][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.05.09-15.31.06:612][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.05.09-15.31.06:618][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.05.09-15.31.06:624][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.05.09-15.31.06:628][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.05.09-15.31.06:635][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.05.09-15.31.06:639][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.05.09-15.31.06:645][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.05.09-15.31.06:651][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.05.09-15.31.06:657][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.05.09-15.31.06:661][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.05.09-15.31.06:667][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.05.09-15.31.06:673][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.05.09-15.31.06:679][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.05.09-15.31.06:685][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.05.09-15.31.06:691][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.05.09-15.31.06:696][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.05.09-15.31.06:700][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.05.09-15.31.06:705][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.05.09-15.31.06:710][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.05.09-15.31.06:714][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.05.09-15.31.06:720][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.05.09-15.31.06:725][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.05.09-15.31.06:730][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.05.09-15.31.06:735][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.05.09-15.31.06:739][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.05.09-15.31.06:744][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.05.09-15.31.06:750][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.05.09-15.31.06:754][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.05.09-15.31.06:759][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.05.09-15.31.06:763][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.05.09-15.31.06:768][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.05.09-15.31.06:774][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.05.09-15.31.06:778][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.05.09-15.31.06:784][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.05.09-15.31.06:789][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.05.09-15.31.06:795][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.05.09-15.31.06:799][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.05.09-15.31.06:805][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.05.09-15.31.06:811][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.05.09-15.31.06:817][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.05.09-15.31.06:823][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.05.09-15.31.06:828][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.05.09-15.31.06:834][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.05.09-15.31.06:839][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.05.09-15.31.06:846][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.05.09-15.31.06:850][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.05.09-15.31.06:855][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.05.09-15.31.06:859][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.05.09-15.31.06:864][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.05.09-15.31.06:868][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.05.09-15.31.06:873][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.05.09-15.31.06:879][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.05.09-15.31.06:883][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.05.09-15.31.06:888][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.05.09-15.31.06:892][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.05.09-15.31.06:897][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.05.09-15.31.06:901][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.05.09-15.31.06:911][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.05.09-15.31.06:922][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.05.09-15.31.06:928][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.05.09-15.31.06:938][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.05.09-15.31.06:944][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.05.09-15.31.06:955][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.05.09-15.31.06:961][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.05.09-15.31.06:974][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.05.09-15.31.06:980][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.05.09-15.31.06:992][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.05.09-15.31.07:007][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.05.09-15.31.07:018][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.05.09-15.31.07:031][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.05.09-15.31.07:041][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.05.09-15.31.07:052][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.05.09-15.31.07:061][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.05.09-15.31.07:072][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.05.09-15.31.07:077][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.05.09-15.31.07:081][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.05.09-15.31.07:087][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.05.09-15.31.07:096][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.05.09-15.31.07:102][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.05.09-15.31.07:108][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.05.09-15.31.07:114][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.05.09-15.31.07:120][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.05.09-15.31.07:126][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.05.09-15.31.07:132][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.05.09-15.31.07:140][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.05.09-15.31.07:146][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.05.09-15.31.07:152][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.05.09-15.31.07:156][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.05.09-15.31.07:170][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.05.09-15.31.07:176][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.05.09-15.31.07:182][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.05.09-15.31.07:194][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.05.09-15.31.07:200][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.05.09-15.31.07:207][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.05.09-15.31.07:211][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.05.09-15.31.07:218][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.05.09-15.31.07:227][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.05.09-15.31.07:233][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.05.09-15.31.07:237][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.05.09-15.31.07:241][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.05.09-15.31.07:251][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.05.09-15.31.07:262][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.05.09-15.31.07:274][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.05.09-15.31.07:286][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.05.09-15.31.07:297][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.05.09-15.31.07:311][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.05.09-15.31.07:321][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.05.09-15.31.07:330][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.05.09-15.31.07:340][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.05.09-15.31.07:349][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.05.09-15.31.07:355][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.05.09-15.31.07:362][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.05.09-15.31.07:368][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.05.09-15.31.07:374][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.05.09-15.31.07:378][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.05.09-15.31.07:386][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.05.09-15.31.07:392][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.05.09-15.31.07:398][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.05.09-15.31.07:403][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.05.09-15.31.07:410][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.05.09-15.31.07:415][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.05.09-15.31.07:430][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.05.09-15.31.07:445][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.05.09-15.31.07:459][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.05.09-15.31.07:472][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.05.09-15.31.07:490][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.05.09-15.31.07:505][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.05.09-15.31.07:512][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.05.09-15.31.07:523][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.05.09-15.31.07:537][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.05.09-15.31.07:551][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.05.09-15.31.07:567][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.05.09-15.31.07:583][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.05.09-15.31.07:591][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.05.09-15.31.07:617][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.05.09-15.31.07:636][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.05.09-15.31.07:648][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.05.09-15.31.07:660][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.05.09-15.31.07:673][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.05.09-15.31.07:681][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.05.09-15.31.07:691][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.05.09-15.31.07:702][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.05.09-15.31.07:713][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.05.09-15.31.07:723][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.05.09-15.31.07:734][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.05.09-15.31.07:744][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.05.09-15.31.07:757][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.05.09-15.31.07:769][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.05.09-15.31.07:781][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.05.09-15.31.07:787][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.05.09-15.31.07:795][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.05.09-15.31.07:799][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.05.09-15.31.07:807][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.05.09-15.31.07:814][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.05.09-15.31.07:820][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.05.09-15.31.07:826][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.05.09-15.31.07:831][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.05.09-15.31.07:837][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.05.09-15.31.07:843][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.05.09-15.31.07:848][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.05.09-15.31.07:853][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.05.09-15.31.07:859][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.05.09-15.31.07:865][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.05.09-15.31.07:871][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.05.09-15.31.07:877][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.05.09-15.31.07:883][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.05.09-15.31.07:890][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.05.09-15.31.07:898][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.05.09-15.31.07:905][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.05.09-15.31.07:912][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.05.09-15.31.07:922][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.05.09-15.31.07:932][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.05.09-15.31.07:944][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.05.09-15.31.07:953][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.05.09-15.31.07:964][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.05.09-15.31.07:971][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.05.09-15.31.07:976][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.05.09-15.31.07:981][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.05.09-15.31.07:986][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.05.09-15.31.07:992][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.05.09-15.31.07:997][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.05.09-15.31.08:001][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.05.09-15.31.08:007][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.05.09-15.31.08:011][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.05.09-15.31.08:016][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.05.09-15.31.08:021][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.05.09-15.31.08:025][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.05.09-15.31.08:030][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.05.09-15.31.08:036][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.05.09-15.31.08:040][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.05.09-15.31.08:046][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.05.09-15.31.08:052][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.05.09-15.31.08:056][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.05.09-15.31.08:061][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.05.09-15.31.08:067][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.05.09-15.31.08:072][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.05.09-15.31.08:077][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.05.09-15.31.08:083][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.05.09-15.31.08:088][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.05.09-15.31.08:094][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.05.09-15.31.08:099][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.05.09-15.31.08:105][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.05.09-15.31.08:111][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.05.09-15.31.08:117][399]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.05.09-15.31.08:120][399]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Floor_400x400) ...
+[2025.05.09-15.31.08:200][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.31.08:258][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Architecture/Floor_400x400] ([1] browsable assets)...
+[2025.05.09-15.31.08:325][399]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400]
+[2025.05.09-15.31.08:325][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Architecture/Floor_400x400]
+[2025.05.09-15.31.08:327][399]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2025.05.09-15.31.08:327][399]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/Floor_400x4004F2107AD48B5E6E465A3C3B99FE1C01D.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2025.05.09-15.31.08:338][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.209 ms (total: 273.581 ms)
+[2025.05.09-15.31.08:474][399]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.31.08:474][399]LogContentValidation: Enabled validators:
+[2025.05.09-15.31.08:474][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.31.08:474][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.31.08:474][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.31.08:474][399]LogContentValidation: Display: Validating asset /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.05.09-15.31.08:474][399]AssetCheck: /Game/StarterContent/Architecture/Floor_400x400 Validating asset
+[2025.05.09-15.31.08:508][399]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.09-15.31.15:460][114]LogSlate: Window 'Content Browser' being destroyed
+[2025.05.09-15.31.15:468][114]LogSlate: Window 'Content Browser' being destroyed
+[2025.05.09-15.31.16:910][279]LogSlate: Window 'Add Content to the Project' being destroyed
+[2025.05.09-15.31.22:621][948]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyUI.MyUI
+[2025.05.09-15.31.22:639][948]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.05.09-15.31.24:161][948]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.05.09-15.31.24:167][948]LogSlate: Took 0.005920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.09-15.31.26:732][215]LogSlate: Window 'MyUI' being destroyed
+[2025.05.09-15.32.45:238][294]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.09-15.32.45:238][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.09-15.32.45:243][294]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.09-15.32.45:243][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.09-15.32.45:270][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.09-15.32.51:480][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.05.09-15.32.52:603][976]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.09-15.32.52:624][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.09-15.32.52:639][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.09-15.32.52:652][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.09-15.33.01:986][229]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.05.09-15.33.01:995][229]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.09-15.33.01:999][229]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.09-15.33.01:999][229]LogAutomationController: Ignoring very large delta of 6.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.09-15.33.02:006][230]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.09-15.33.05:323][595]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MyUI
+[2025.05.09-15.33.05:332][595]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.09-15.33.05:909][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyUI.MyUI
+[2025.05.09-15.33.39:149][601]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.09-15.34.24:300][986]LogEditorTransaction: Undo Resize Widget
+[2025.05.09-15.35.24:223][531]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.09-15.36.01:601][954]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:603][954]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:604][954]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:641][955]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:647][955]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:650][956]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:683][957]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:687][957]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:691][958]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:691][958]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:722][959]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:734][960]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:737][960]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:774][961]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:781][961]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:787][962]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:824][963]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:826][963]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:831][963]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:837][964]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:884][966]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:930][967]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:976][969]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.01:981][970]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:024][972]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:063][973]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:107][975]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:113][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:154][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:188][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:194][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:238][981]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:244][982]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.09-15.36.02:684][ 19]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.09-15.36.35:431][768]LogEditorTransaction: Undo Resize Widget
+[2025.05.09-15.36.42:958][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.36.43:011][569]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.36.43:012][569]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.36.43:012][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.36.43:012][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.36.43:015][569]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.36.43:015][569]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI8A287F174AEE0D18EA55DD9CA1095ECB.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.36.43:024][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.514 ms (total: 339.095 ms)
+[2025.05.09-15.36.43:078][569]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.36.43:078][569]LogContentValidation: Enabled validators:
+[2025.05.09-15.36.43:078][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.36.43:078][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.36.43:078][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.36.43:078][569]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.36.43:078][569]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.36.44:118][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.09-15.36.44:122][691]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.09-15.36.44:122][691]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.09-15.36.44:124][691]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.814 ms
+[2025.05.09-15.36.44:125][691]LogPlayLevel: [PlayLevel] Compiling MyUI before play...
+[2025.05.09-15.36.44:208][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.09-15.36.44:208][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2025.05.09-15.36.44:212][691]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.09-15.36.44:212][691]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.09-15.36.44:212][691]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.09-15.36.44:216][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003561s)
+[2025.05.09-15.36.44:216][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003600s)
+[2025.05.09-15.36.44:227][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.09-15.36.44:228][691]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.05.09-15.36.44:228][691]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.09-15.36.44:228][691]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.09-15.36.44:228][691]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.09-15.36.44:228][691]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.09-15.36.44:230][691]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2025.05.09-15.36.44:230][691]LogWorldPartition: Display: WorldPartition initialize took 1.155 ms (total: 115.000 ms)
+[2025.05.09-15.36.44:230][691]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2025.05.09-15.36.44:237][691]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.09-15.36.44:237][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.09-15.36.44:237][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.09-15.36.44:237][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.09-15.36.44:237][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.09-15.36.44:237][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.09-15.36.44:239][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.09-15.36.44:255][691]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.05.09-15.36.44:255][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.09-15.36.44:255][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.09-15.36.44:255][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.09-15.36.44:256][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.09-15.36.44:256][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.09-15.36.44:257][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.09-15.36.44:257][691]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.09-15.36.44:257][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.09-15.36.44:257][691]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.05.09-15.36.44:257][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.09-15.36.44:306][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.09-15.36.44:306][691]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.09-15.36.44:308][691]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.05.09-17.36.44
+[2025.05.09-15.36.44:309][691]LogWorld: Bringing up level for play took: 0.001718
+[2025.05.09-15.36.44:311][691]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.05.09-15.36.44:330][691]PIE: Server logged in
+[2025.05.09-15.36.44:330][691]PIE: Play in editor total start time 0,209 seconds.
+[2025.05.09-15.36.46:628][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.09-15.36.46:628][917]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.09-15.36.46:630][917]LogSlate: Window 'UIExample Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.09-15.36.46:639][917]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.09-15.36.46:639][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.09-15.36.46:639][917]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.09-15.36.46:639][917]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.05.09-15.36.46:639][917]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.05.09-15.36.46:639][917]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.05.09-15.36.46:642][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.09-15.36.46:645][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.09-15.36.46:657][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.09-15.36.46:657][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.09-15.36.46:658][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.09-15.36.46:664][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.09-15.36.46:701][920]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.05.09-15.38.11:524][ 49]LogEditorTransaction: Undo Changed Anchors
+[2025.05.09-15.38.19:583][953]LogEditorTransaction: Undo Changed Anchors
+[2025.05.09-15.38.23:174][321]LogEditorTransaction: Undo Changed Anchors
+[2025.05.09-15.38.53:951][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.38.53:997][855]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.38.54:002][855]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.38.54:002][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.38.54:002][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.38.54:006][855]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.38.54:006][855]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI600B13254B457CF57795B1B169B17632.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.38.54:012][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.548 ms (total: 400.643 ms)
+[2025.05.09-15.38.54:068][855]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.38.54:068][855]LogContentValidation: Enabled validators:
+[2025.05.09-15.38.54:068][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.38.54:068][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.38.54:068][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.38.54:068][855]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.38.54:069][855]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.42.09:310][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.42.09:340][915]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.42.09:342][915]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.42.09:342][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.42.09:342][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.42.09:345][915]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.42.09:346][915]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUIB524FD474FF77D6B375A909FCC1A3A47.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.42.09:354][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.755 ms (total: 444.399 ms)
+[2025.05.09-15.42.09:387][915]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.42.09:387][915]LogContentValidation: Enabled validators:
+[2025.05.09-15.42.09:387][915]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.42.09:387][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.42.09:387][915]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.42.09:387][915]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.42.09:389][915]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.42.18:351][990]LogEditorTransaction: Undo Changed Anchors
+[2025.05.09-15.42.28:284][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.42.28:337][ 37]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.42.28:338][ 37]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.42.28:340][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.42.28:340][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.42.28:341][ 37]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.42.28:343][ 37]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI6C6437224E37E20240D17282E19FECA8.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.42.28:349][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.195 ms (total: 509.594 ms)
+[2025.05.09-15.42.28:406][ 37]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.42.28:406][ 37]LogContentValidation: Enabled validators:
+[2025.05.09-15.42.28:406][ 37]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.42.28:406][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.42.28:406][ 37]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.42.28:406][ 37]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.42.28:406][ 37]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.42.38:084][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.42.38:120][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.42.38:120][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.42.38:120][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.42.38:123][197]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.42.38:123][197]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI14796D9F4BF18439317CC3B6EFF442C5.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.42.38:128][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.604 ms (total: 552.198 ms)
+[2025.05.09-15.42.38:190][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.42.38:190][197]LogContentValidation: Enabled validators:
+[2025.05.09-15.42.38:190][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.42.38:190][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.42.38:190][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.42.38:190][197]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.42.38:190][197]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.43.08:140][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.43.08:188][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.43.08:188][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.43.08:188][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.43.08:190][787]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.43.08:191][787]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI2F5F4F12491CC5327BCB59AEA08ECF0E.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.43.08:197][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.653 ms (total: 609.852 ms)
+[2025.05.09-15.43.08:255][787]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.43.08:255][787]LogContentValidation: Enabled validators:
+[2025.05.09-15.43.08:255][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.43.08:255][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.43.08:255][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.43.08:255][787]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.43.08:255][787]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.44.13:164][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.44.13:216][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.44.13:218][982]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.44.13:218][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.44.13:218][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.44.13:221][982]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.44.13:221][982]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUIB47012874136FA9127A67791665EF0AD.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.44.13:229][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.326 ms (total: 675.179 ms)
+[2025.05.09-15.44.13:283][982]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.44.13:283][982]LogContentValidation: Enabled validators:
+[2025.05.09-15.44.13:283][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.44.13:283][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.44.13:283][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.44.13:283][982]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.44.13:283][982]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.44.23:493][193]LogEditorTransaction: Undo Changed Anchors
+[2025.05.09-15.44.39:168][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.44.39:213][719]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.44.39:214][719]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.44.39:214][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.44.39:214][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.44.39:218][719]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.44.39:218][719]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI6BA6EC4041FC6CF3AEBD51B3C314A887.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.44.39:225][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.143 ms (total: 732.322 ms)
+[2025.05.09-15.44.39:283][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.44.39:283][719]LogContentValidation: Enabled validators:
+[2025.05.09-15.44.39:283][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.44.39:283][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.44.39:283][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.44.39:283][719]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.44.39:283][719]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.44.48:970][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.44.49:032][866]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.44.49:035][866]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.44.49:035][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.44.49:035][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.44.49:039][866]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.44.49:039][866]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI0FE9822549AEC5C31996528B892DB687.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.44.49:048][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.010 ms (total: 809.332 ms)
+[2025.05.09-15.44.49:098][866]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.44.49:098][866]LogContentValidation: Enabled validators:
+[2025.05.09-15.44.49:098][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.44.49:098][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.44.49:099][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.44.49:099][866]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.44.49:099][866]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.46.56:758][167]LogEditorTransaction: Undo Edit Bottom
+[2025.05.09-15.47.01:100][625]LogEditorTransaction: Undo Edit Top
+[2025.05.09-15.47.07:456][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.47.07:517][324]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.47.07:520][324]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.47.07:520][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.47.07:520][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.47.07:523][324]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.47.07:523][324]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI53194ED1475507CAEFDE338E6EDAEB78.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.47.07:531][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.017 ms (total: 884.350 ms)
+[2025.05.09-15.47.07:574][324]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.47.07:574][324]LogContentValidation: Enabled validators:
+[2025.05.09-15.47.07:574][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.47.07:574][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.47.07:574][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.47.07:574][324]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.47.07:576][324]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.47.47:961][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.47.48:003][228]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.47.48:006][228]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.47.48:006][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.47.48:006][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.47.48:010][228]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.47.48:010][228]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUICB83E82F4AA4AF7229AF16ABF55BE2B0.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.47.48:018][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.966 ms (total: 941.316 ms)
+[2025.05.09-15.47.48:072][228]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.47.48:072][228]LogContentValidation: Enabled validators:
+[2025.05.09-15.47.48:072][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.47.48:072][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.47.48:072][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.47.48:072][228]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.47.48:074][228]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.47.55:574][127]LogEditorTransaction: Undo Resize Widget
+[2025.05.09-15.48.58:803][609]LogEditorTransaction: Undo Edit Is Volatile
+[2025.05.09-15.49.42:320][732]LogEditorTransaction: Undo Edit Pixel Snapping
+[2025.05.09-15.50.22:328][375]LogEditorTransaction: Undo Move Widget
+[2025.05.09-15.51.47:894][561]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.51.48:427][569]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.51.48:849][603]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.51.49:333][645]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.51.49:971][706]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.51.50:451][746]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.51.50:762][767]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.52.21:507][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.52.21:558][429]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.52.21:559][429]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.52.21:559][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.52.21:559][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.52.21:564][429]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.52.21:564][429]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUIB86EF93F4AA60BBE2147CCBA2D2F98AD.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.52.21:571][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.486 ms (total: 1.00 sec)
+[2025.05.09-15.52.21:626][429]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.52.21:626][429]LogContentValidation: Enabled validators:
+[2025.05.09-15.52.21:626][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.52.21:626][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.52.21:626][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.52.21:626][429]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.52.21:626][429]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.53.57:602][883]LogEditorTransaction: Undo Changed Anchors
+[2025.05.09-15.54.15:383][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.54.15:434][948]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.54.15:437][948]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.54.15:437][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.54.15:437][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.54.15:440][948]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.54.15:441][948]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUIA8C036334F17D68E46E921B9B6C05EFC.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.54.15:448][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.636 ms (total: 1.07 sec)
+[2025.05.09-15.54.15:501][948]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.54.15:501][948]LogContentValidation: Enabled validators:
+[2025.05.09-15.54.15:501][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.54.15:501][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.54.15:501][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.54.15:501][948]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.54.15:501][948]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.55.24:240][970]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.55.24:917][996]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.55.49:130][854]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.55.55:235][520]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.56.07:427][891]LogEditorTransaction: Undo Resize Widget
+[2025.05.09-15.56.07:712][896]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.09-15.56.08:490][964]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.56.10:574][205]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.56.29:694][477]LogEditorTransaction: Undo Move Anchor
+[2025.05.09-15.56.46:064][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.56.46:090][387]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.56.46:093][387]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.56.46:093][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.56.46:093][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.56.46:096][387]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.56.46:098][387]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI948168654DBA7E2B532881B2EA3C886E.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.56.46:106][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.904 ms (total: 1.11 sec)
+[2025.05.09-15.56.46:143][387]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.56.46:143][387]LogContentValidation: Enabled validators:
+[2025.05.09-15.56.46:143][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.56.46:143][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.56.46:143][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.56.46:143][387]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.56.46:144][387]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.56.53:811][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.56.53:843][289]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.56.53:844][289]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.56.53:844][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.56.53:844][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.56.53:850][289]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.56.53:851][289]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUIB577BE3C4D5FCDC887FE6AB17671D44C.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.56.53:857][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.467 ms (total: 1.15 sec)
+[2025.05.09-15.56.53:891][289]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.56.53:891][289]LogContentValidation: Enabled validators:
+[2025.05.09-15.56.53:891][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.56.53:891][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.56.53:891][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.56.53:891][289]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.56.53:893][289]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.56.55:692][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.09-15.56.55:697][504]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.09-15.56.55:697][504]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.09-15.56.55:698][504]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.676 ms (total: 3.490 ms)
+[2025.05.09-15.56.55:700][504]LogPlayLevel: [PlayLevel] Compiling MyUI before play...
+[2025.05.09-15.56.55:733][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.05.09-15.56.55:735][504]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2025.05.09-15.56.55:735][504]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.09-15.56.55:738][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002699s)
+[2025.05.09-15.56.55:738][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002730s)
+[2025.05.09-15.56.55:751][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.09-15.56.55:751][504]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.05.09-15.56.55:753][504]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.09-15.56.55:753][504]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.09-15.56.55:753][504]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.09-15.56.55:753][504]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.09-15.56.55:753][504]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2025.05.09-15.56.55:753][504]LogWorldPartition: Display: WorldPartition initialize took 1.099 ms (total: 116.100 ms)
+[2025.05.09-15.56.55:753][504]LogPlayLevel: PIE: World Init took: (0.002186s)
+[2025.05.09-15.56.55:763][504]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.09-15.56.55:763][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.09-15.56.55:763][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.09-15.56.55:763][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.09-15.56.55:763][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.09-15.56.55:763][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.09-15.56.55:764][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.09-15.56.55:781][504]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.05.09-15.56.55:781][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.09-15.56.55:781][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.09-15.56.55:781][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.09-15.56.55:783][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.09-15.56.55:783][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.09-15.56.55:783][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.09-15.56.55:783][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.09-15.56.55:783][504]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.09-15.56.55:783][504]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.05.09-15.56.55:783][504]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.09-15.56.55:840][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.09-15.56.55:840][504]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.09-15.56.55:842][504]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.05.09-17.56.55
+[2025.05.09-15.56.55:842][504]LogWorld: Bringing up level for play took: 0.001944
+[2025.05.09-15.56.55:845][504]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.05.09-15.56.55:854][504]PIE: Server logged in
+[2025.05.09-15.56.55:856][504]PIE: Play in editor total start time 0,16 seconds.
+[2025.05.09-15.56.57:697][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.09-15.56.57:697][693]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.09-15.56.57:697][693]LogSlate: Window 'UIExample Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.09-15.56.57:704][693]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.09-15.56.57:704][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.09-15.56.57:704][693]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.09-15.56.57:704][693]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.05.09-15.56.57:704][693]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.05.09-15.56.57:704][693]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.05.09-15.56.57:707][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.09-15.56.57:711][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.09-15.56.57:723][693]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.09-15.56.57:723][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.09-15.56.57:724][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.09-15.56.57:730][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.09-15.56.57:777][697]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.05.09-15.57.08:471][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.57.08:524][975]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.57.08:526][975]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.57.08:526][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.57.08:526][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.57.08:530][975]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.57.08:530][975]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI38C94E854555AA26EB9A60A1E2ED8573.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.57.08:536][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.931 ms (total: 1.22 sec)
+[2025.05.09-15.57.08:598][975]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.57.08:598][975]LogContentValidation: Enabled validators:
+[2025.05.09-15.57.08:598][975]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.57.08:598][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.57.08:598][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.57.08:598][975]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.57.08:598][975]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.57.11:365][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.57.11:431][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.57.11:431][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.57.11:431][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.57.11:436][306]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.57.11:437][306]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI1D9E53584B865674F465B4A6FBCE5858.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.57.11:443][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.152 ms (total: 1.29 sec)
+[2025.05.09-15.57.11:493][306]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.57.11:493][306]LogContentValidation: Enabled validators:
+[2025.05.09-15.57.11:493][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.57.11:493][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.57.11:493][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.57.11:493][306]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.57.11:494][306]AssetCheck: /Game/MyUI Validating asset
+[2025.05.09-15.57.19:538][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.09-15.57.19:576][257]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyUI] ([2] browsable assets)...
+[2025.05.09-15.57.19:579][257]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyUI.MyUI]
+[2025.05.09-15.57.19:579][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyUI]
+[2025.05.09-15.57.19:579][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyUI" FILE="../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset" SILENT=true
+[2025.05.09-15.57.19:582][257]LogSavePackage: Moving output files for package: /Game/MyUI
+[2025.05.09-15.57.19:582][257]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Saved/MyUI58FFA28D469FA061D1B7FC88623BF584.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset'
+[2025.05.09-15.57.19:590][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.570 ms (total: 1.35 sec)
+[2025.05.09-15.57.19:641][257]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.09-15.57.19:641][257]LogContentValidation: Enabled validators:
+[2025.05.09-15.57.19:641][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.09-15.57.19:641][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.09-15.57.19:641][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.09-15.57.19:641][257]LogContentValidation: Display: Validating asset /Game/MyUI.MyUI
+[2025.05.09-15.57.19:643][257]AssetCheck: /Game/MyUI Validating asset

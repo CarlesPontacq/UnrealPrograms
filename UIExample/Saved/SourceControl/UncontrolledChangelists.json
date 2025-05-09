@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/NewWidgetBlueprint.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
