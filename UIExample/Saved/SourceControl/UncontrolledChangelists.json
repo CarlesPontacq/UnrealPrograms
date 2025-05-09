@@ -5,20 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/NewWidgetBlueprint.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/MyUI.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/PointsUI.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
-				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/FirstPerson/Blueprints/Cursor-Crosshair.uasset",
-				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Laser.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Cursor-Crosshair.uasset",
-				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Song.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Audio/Laser.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Audio/Song.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Audio/SongCue.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CW/I7C0G8IC69W3A01ZGCEO39.uasset",
-				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Audio/LaserCue.uasset"
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Audio/LaserCue.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/8R/W75GRKEOO9F2M6X5BOOX01.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/P8/EYZY1WDNF49376083ISO2S.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O3/JKXD51750PKLXQ2UR6CZZV.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Beta_HighLimbsGeoSG2.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Beta_Joints_MAT.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Model.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Model_Anim_mixamo_com.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Model_PhysicsAsset.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Model_Skeleton.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/NewWidgetBlueprint.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/FirstPerson/Blueprints/Cursor-Crosshair.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Laser.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/UIExample/Content/Song.uasset"
 			]
 		}
 	]
