@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cpont/Documents/UnrealPrograms/BlueprintScriptingV2/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/cpont/Documents/UnrealPrograms/BlueprintScriptingV2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScriptingV2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScriptingV2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/CarlesPontacqMontano/Documents/Unreal Projects/BlueprintScriptingV2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
