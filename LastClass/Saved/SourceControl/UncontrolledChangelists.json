@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/blaster-n.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/colormap.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/colormap_ncl1_1.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/I0/T7N9I9LF5UQYXPKQZEFLPP.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SO/VXNDAVJ5SGRYFDUACIPKPG.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/RiggedWeapon/blaster-n.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/RiggedWeapon/blaster-n_PhysicsAsset.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/RiggedWeapon/blaster-n_Skeleton.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/RiggedWeapon/colormap.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/RiggedWeapon/colormap_ncl1_1.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RR/KNVHYG7E8A1FRLNYK1IVWQ.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/MyMaterial.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/MirrorMAterial.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/LastClass/Content/AnimatedBulletMaterial.uasset"
+			]
+		}
+	]
+}
