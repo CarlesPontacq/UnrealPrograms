@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/8U/W8TM6GGWN0I7F7RMK7W6IK.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/YH/FI7YZDKUA6M1X853M8GAMV.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/TopDown/Blueprints/EnemyController.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/StarterContent/Materials/M_Concrete_Grime.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/StarterContent/Props/Materials/M_Frame.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset",
+				"C:/Users/CarlesPontacqMontano/Documents/UnrealPrograms/TrueLastClass/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		}
+	]
+}
